@@ -1,4 +1,5 @@
 # Bulk RNA-Seq Pipeline to generate raw counts in bash
+This repository contains a bash script which is used to build a bulk RNA sequence pipeline and an R script for obtaining gene ids.
 
 ### Requirements:
 •	FastQC (v0.11.9)
