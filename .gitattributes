@@ -3,3 +3,6 @@
 *.summary filter=lfs diff=lfs merge=lfs -text
 *.sam filter=lfs diff=lfs merge=lfs -text
 *.bam filter=lfs diff=lfs merge=lfs -text
+*.html filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+*_trimmed.fastq filter=lfs diff=lfs merge=lfs -text
