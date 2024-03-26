@@ -5,7 +5,7 @@
 •	Trimmomatic (v0.39)
 •	HISAT2 (v2.2.1)
 •	featureCounts (v2.0.3)
-•	R
+•	R (v4.2.1)
 
 ### Data used:
 GSM1220264: MOV10 overexpression 1; Homo sapiens; RNA-Seq - SRA - NCBI (nih.gov)
